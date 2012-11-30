@@ -1,0 +1,8 @@
+name: Exp
+main: ru.bukkitserver.Exp
+version: 1.0
+author: Smilesdc
+commands:
+        exp:
+          description: Get you or other exp.
+          usage: /exp <player>
